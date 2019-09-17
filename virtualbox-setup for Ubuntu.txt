@@ -1,0 +1,53 @@
+Aim:To install Ubuntu in Virtual Box.
+
+#Step 1: Download and install VirtualBox.
+
+i.]Go to the website of Oracle VirtualBox and get the latest stable version from here:
+https://www.virtualbox.org/wiki/Downloads
+
+ii.] Install it by double clicking on downloaded .exe file.
+
+#Step 2: Download the UBUNTU Linux ISO. 
+
+i.]Go to the website of Ubuntu Linux and get the latest stable version from here:
+https://ubuntu.com/download/desktop
+
+#Step 3: Install UBUNTU Linux using VirtualBox.
+
+i.]Start VirtualBox, and click on the New symbol. Give the virtual OS a 'Ubuntu' name.
+
+ii.]Allocate atleast minimum of 2GB of RAM to the virtual OS.
+
+iii.]Select Create a virtual hard disk option. It is where the virtual system will store its files.
+
+iv.]Choose the 'Dynamically allocated' option to create virtual hard disk.
+
+v.] I suggest giving 15-20 GB space for storing data.
+
+vi.] It’s time to boot that ISO and install UBUNTU Linux as a virtual operating system.
+
+*NOTE:If VirtualBox doesn’t detect the UBUNTU Linux ISO, browse to its location by clicking the folder icon.
+
+vii.]After booting Ubuntu,select the 'Install Ubuntu' option.
+
+viii.]Select continue option for next screen, which containing option for downloading updates.
+
+ix.]Select 'Erase Disk' option and hit continue.
+
+*NOTE: Here you will be using the space 15-20 GB space allocated from your hard-disk.
+
+x.]Again hit the continue option, where it's shows the warning message for formatting the disk.
+
+xi.]Select the region, then the language you want to use.
+
+xii.]Then type a new username and password that suits you.
+*NOTE: Read the documentation for getting more help about setting username and password.
+
+xiii.]Wait for the installation to finish it will take 15-20 mins.
+
+xiv.]After installation finished, reboot virtualbox.
+
+xv.]That's all, you are succesfully logged in your Ubuntu system.
+
+
+
